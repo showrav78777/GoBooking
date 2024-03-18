@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "353684034425",
+    "firebase_url": "https://gobooking-8cb01-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gobooking-8cb01",
+    "storage_bucket": "gobooking-8cb01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353684034425:android:45d55316e1c756448755a8",
+        "android_client_info": {
+          "package_name": "com.example.gobooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA57dHsvNY7p51MOh1h8GNEu6Rx5NvZcI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
